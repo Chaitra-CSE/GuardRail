@@ -1,4 +1,4 @@
-# GuardRail · Fintech Prototype
+# GuardRail 
 
 A fintech prototype that lets an AI agent make purchases on behalf of a user, but only within programmable spend limits, with a second AI "guardrail" agent authorizing every transaction in real time.
 
