@@ -1,0 +1,119 @@
+{
+    "Amazon": {
+        "name": "Amazon",
+        "trustScore": 94,
+        "successRate": 98,
+        "returnRisk": "LOW",
+        "policyCompatibility": "HIGH",
+        "agentCompatibility": 96,
+        "verifiedCheckout": true
+    },
+    "Amazon Fresh": {
+        "name": "Amazon Fresh",
+        "trustScore": 94,
+        "successRate": 97,
+        "returnRisk": "LOW",
+        "policyCompatibility": "HIGH",
+        "agentCompatibility": 95,
+        "verifiedCheckout": true
+    },
+    "Whole Foods": {
+        "name": "Whole Foods Market",
+        "trustScore": 96,
+        "successRate": 99,
+        "returnRisk": "VERY LOW",
+        "policyCompatibility": "HIGH",
+        "agentCompatibility": 98,
+        "verifiedCheckout": true
+    },
+    "Trader Joe's": {
+        "name": "Trader Joe's",
+        "trustScore": 95,
+        "successRate": 98,
+        "returnRisk": "VERY LOW",
+        "policyCompatibility": "HIGH",
+        "agentCompatibility": 92,
+        "verifiedCheckout": true
+    },
+    "Target": {
+        "name": "Target Stores",
+        "trustScore": 93,
+        "successRate": 97,
+        "returnRisk": "LOW",
+        "policyCompatibility": "HIGH",
+        "agentCompatibility": 94,
+        "verifiedCheckout": true
+    },
+    "Best Buy": {
+        "name": "Best Buy Commerce",
+        "trustScore": 91,
+        "successRate": 96,
+        "returnRisk": "MODERATE",
+        "policyCompatibility": "MEDIUM",
+        "agentCompatibility": 90,
+        "verifiedCheckout": true
+    },
+    "Apple Store": {
+        "name": "Apple Inc. Official",
+        "trustScore": 98,
+        "successRate": 99,
+        "returnRisk": "VERY LOW",
+        "policyCompatibility": "HIGH",
+        "agentCompatibility": 97,
+        "verifiedCheckout": true
+    },
+    "Spotify": {
+        "name": "Spotify AB",
+        "trustScore": 99,
+        "successRate": 99,
+        "returnRisk": "VERY LOW",
+        "policyCompatibility": "HIGH",
+        "agentCompatibility": 99,
+        "verifiedCheckout": true
+    },
+    "Netflix": {
+        "name": "Netflix Services",
+        "trustScore": 99,
+        "successRate": 99,
+        "returnRisk": "VERY LOW",
+        "policyCompatibility": "HIGH",
+        "agentCompatibility": 99,
+        "verifiedCheckout": true
+    },
+    "Proton": {
+        "name": "Proton AG",
+        "trustScore": 98,
+        "successRate": 99,
+        "returnRisk": "VERY LOW",
+        "policyCompatibility": "HIGH",
+        "agentCompatibility": 97,
+        "verifiedCheckout": true
+    },
+    "Nord Security": {
+        "name": "Nord Security",
+        "trustScore": 97,
+        "successRate": 98,
+        "returnRisk": "LOW",
+        "policyCompatibility": "HIGH",
+        "agentCompatibility": 96,
+        "verifiedCheckout": true
+    },
+    "Microsoft": {
+        "name": "Microsoft Corporation",
+        "trustScore": 99,
+        "successRate": 99,
+        "returnRisk": "VERY LOW",
+        "policyCompatibility": "HIGH",
+        "agentCompatibility": 98,
+        "verifiedCheckout": true
+    },
+    "Blue Bottle Coffee": {
+        "name": "Blue Bottle Coffee",
+        "trustScore": 97,
+        "successRate": 98,
+        "returnRisk": "VERY LOW",
+        "policyCompatibility": "HIGH",
+        "agentCompatibility": 95,
+        "verifiedCheckout": true
+    }
+}
